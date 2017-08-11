@@ -1,7 +1,7 @@
 {
   "name": "es2017-starter-project",
   "version": "1.0.0",
-  "description": "Just compiles your js into a bundle file, transpiling ES2017 to ES5 via webpack/babel, and loads sources it into an index.html",
+  "description": "Little chat application that will probably never actually work",
   "main": "index.js",
   "scripts": {
     "test": "jest",
